@@ -1,20 +1,20 @@
 ## Programming fundamental concepts
 
-- Concepts
-  - Model
+- Concepts +
+  - Model 
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
+  - Algorithm +
+  - Syntax +
+  - Semantics ~
+  - Abstraction ~
   - Paradigm
-  - Programm
+  - Programm +
   - Programming paradigm
-  - Programming language
-  - Contract
-  - Module
-  - Library
+  - Programming language +
+  - Contract ~
+  - Module ~
+  - Library +
   - Package
   - Component
   - Framework
@@ -23,43 +23,43 @@
   - Object code
   - Machine code
   - Microcode
-  - Software engineering
+  - Software engineering ~
   - Decomposition
   - Control flow
-  - Data flow
-  - Code reuse
+  - Data flow ~
+  - Code reuse +
   - Defensive programming
   - Don't repeat yourself (DRY)
   - KISS principle
-- Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
+- Syntax and concepts ~
+  - Value +
+  - Identifier +
+  - Variable +
+  - Constant +
+  - Scalar +
+  - Literal ~
+  - Expression +
   - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
+  - Function +
+  - Procedure +
+  - Method +
+  - Class +
   - Prototype
   - Event
-  - Type
+  - Type +
   - Flag
   - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
+  - Code block +
+  - Conditions +
+  - Loops +
+  - Assignment +
   - Regular expression
-  - Interface
-  - Namespaces
+  - Interface ~
+  - Namespaces +
   - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
+  - Naming conventions +
+  - Coding conventions ~
+  - Camel case ~
   - Snake case
   - Kebab case
   - Trailing commas
@@ -80,10 +80,10 @@
   - Type inference
   - Covariance
   - Contravariance
-- Functions
-  - Signature
-  - Argument
-  - Parameter
+- Functions +
+  - Signature ~
+  - Argument +
+  - Parameter +
   - Pure function
   - Lambda expression
   - Side effects
@@ -91,7 +91,7 @@
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion ~
   - Tail call optimisation
   - Callback
   - Listener
@@ -105,12 +105,12 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
+  - Array +
+  - Structure +
   - Record
-  - Enum
-  - Instance
-  - Object
+  - Enum +
+  - Instance +
+  - Object +
   - Collection
   - Set
   - Hash table
@@ -127,7 +127,7 @@
   - Mutable state
   - Immutable state
   - Serialization
-  - String parsing
+  - String parsing +
   - JSON
   - JSON5
   - YAML
@@ -142,7 +142,7 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler +
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -152,7 +152,7 @@
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
+  - Runtime +
   - Virtual machine
   - Register-based VM
   - Stack-based VM
@@ -186,14 +186,14 @@
   - Duplicate code
   - Premature optimization
   - Micro-optimization
-  - Nested loops
+  - Nested loops +
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case +
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -207,7 +207,7 @@
   - VJM
   - CLR
   - Mono
-- Operating systems
+- Operating systems +
   - Interrupts
   - Drivers
   - Kernel
@@ -218,7 +218,7 @@
   - Unix
   - BSD
   - MacOS
-  - Windows
+  - Windows +
   - Real-time OS
   - Embedded OS
 - Standards
